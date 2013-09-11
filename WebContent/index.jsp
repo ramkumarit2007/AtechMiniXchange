@@ -8,6 +8,6 @@
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
 </head>
 <body>
- <h1>Hello World to uBuild and uDeploy!!!! Demo to Ranjan</h1>
+ <h1>Hello World to uBuild and uDeploy!!!!</h1>
 </body>
 </html>
